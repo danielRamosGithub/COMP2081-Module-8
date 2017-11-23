@@ -98,8 +98,9 @@ textarea {
    ========================================================================== */
 
 /* STEP 2: Add a border to the CANVAS element */
-
-
+canvas {
+    border: 1px solid gray;
+}
 
 
 
